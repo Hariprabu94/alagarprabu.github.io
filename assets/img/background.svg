@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="480"
+   viewBox="0 0 211.66666 127"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="background.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient821">
+      <stop
+         style="stop-color:#303866;stop-opacity:1"
+         offset="0"
+         id="stop817" />
+      <stop
+         style="stop-color:#54426a;stop-opacity:1"
+         offset="1"
+         id="stop819" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient821"
+       id="linearGradient823"
+       x1="211.66667"
+       y1="296.99997"
+       x2="64.255959"
+       y2="55.851189"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.002509,0,0,0.42576138,-0.50171215,170.57821)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="312.03576"
+     inkscape:cy="275.69135"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-169.99998)">
+    <rect
+       style="opacity:1;fill:url(#linearGradient823);fill-opacity:1;stroke:none;stroke-width:0.48345828;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="211.4399"
+       height="126.81099"
+       x="0.25613698"
+       y="170.21834" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.24309393;stroke:#54426a;stroke-width:0.42774794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect825"
+       width="33.988213"
+       height="23.482763"
+       x="12.34395"
+       y="192.74744"
+       ry="3.7078052" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="19.710396"
+       y="207.33907"
+       id="text829"><tspan
+         sodipodi:role="line"
+         id="tspan827"
+         x="19.710396"
+         y="207.33907"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87777805px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Light';fill:#ffffff;stroke-width:0.26458332">255</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.24309393;stroke:#54426a;stroke-width:1.03433549;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect825-7"
+       width="211.27789"
+       height="22.088717"
+       x="0.57236713"
+       y="275.09485"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.6305976"
+       y="180.61183"
+       id="text848"><tspan
+         sodipodi:role="line"
+         id="tspan846"
+         x="6.6305976"
+         y="180.61183"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05555534px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Light';fill:#ffffff;stroke-width:0.26458332">Settings</tspan></text>
+    <path
+       style="fill:#786e8d;stroke:#7b6f8e;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 5.8586308,184.17409 41.955357,183.9851"
+       id="path850"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

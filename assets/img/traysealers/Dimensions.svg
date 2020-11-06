@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="945" height="733" viewBox="0 0 945 733">
+  <defs>
+    <clipPath id="clip-Dimensions">
+      <rect width="945" height="733"/>
+    </clipPath>
+  </defs>
+  <g id="Dimensions" clip-path="url(#clip-Dimensions)">
+    <rect width="945" height="733" fill="#fff"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(182 184)" fill="#e8e8e8" stroke="#707070" stroke-width="1">
+      <rect width="529" height="332" rx="56" stroke="none"/>
+      <rect x="0.5" y="0.5" width="528" height="331" rx="55.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="430" height="253" rx="56" transform="translate(234 224)" fill="#d6d6d6"/>
+    <line id="Line_1" data-name="Line 1" y2="165" transform="translate(182.5 50.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" y2="165" transform="translate(711.5 50.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" x2="529" transform="translate(182.5 109.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Polygon_1" data-name="Polygon 1" transform="translate(182.5 122.5) rotate(-90)" fill="#707070">
+      <path d="M 25.22792625427246 28.5 L 0.7720738053321838 28.5 L 13 1.222318410873413 L 25.22792625427246 28.5 Z" stroke="none"/>
+      <path d="M 13 2.444658279418945 L 1.544157028198242 28 L 24.45584297180176 28 L 13 2.444658279418945 M 13 0 L 26 29 L 0 29 L 13 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Polygon_2" data-name="Polygon 2" transform="translate(711.5 96.5) rotate(90)" fill="#707070">
+      <path d="M 25.22792625427246 28.5 L 0.7720738053321838 28.5 L 13 1.222318410873413 L 25.22792625427246 28.5 Z" stroke="none"/>
+      <path d="M 13 2.444658279418945 L 1.544157028198242 28 L 24.45584297180176 28 L 13 2.444658279418945 M 13 0 L 26 29 L 0 29 L 13 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <text id="_360_mm" data-name="360 mm" transform="translate(401 92)" fill="#707070" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">360 mm</tspan></text>
+    <line id="Line_4" data-name="Line 4" x2="68" transform="translate(729.5 184.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" x2="68" transform="translate(729.5 516.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_6" data-name="Line 6" y2="325" transform="translate(763.5 184.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Polygon_3" data-name="Polygon 3" transform="translate(751 185)" fill="#707070">
+      <path d="M 25.22792625427246 28.5 L 0.7720738053321838 28.5 L 13 1.222318410873413 L 25.22792625427246 28.5 Z" stroke="none"/>
+      <path d="M 13 2.444658279418945 L 1.544157028198242 28 L 24.45584297180176 28 L 13 2.444658279418945 M 13 0 L 26 29 L 0 29 L 13 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Polygon_4" data-name="Polygon 4" transform="translate(777 517) rotate(180)" fill="#707070">
+      <path d="M 25.22792625427246 28.5 L 0.7720738053321838 28.5 L 13 1.222318410873413 L 25.22792625427246 28.5 Z" stroke="none"/>
+      <path d="M 13 2.444658279418945 L 1.544157028198242 28 L 24.45584297180176 28 L 13 2.444658279418945 M 13 0 L 26 29 L 0 29 L 13 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <text id="_270_mm" data-name="270 mm" transform="translate(782.5 311.5) rotate(90)" fill="#707070" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">270 mm</tspan></text>
+  </g>
+</svg>
